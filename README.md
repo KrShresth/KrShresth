@@ -5,5 +5,4 @@
 - 💬 Ask me about ML, DSA, Web Development.
 - 📫 How to reach me: Check my [LinkedIn Profile](https://www.linkedin.com/in/shresth-raj-6a2aa524a).
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I am a 4th year engineering student looking for my first job.
 
